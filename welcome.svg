@@ -6,7 +6,7 @@
       fill: #3fb950;
     }
 
-    /* Blinking cursor */
+    /* Cursor blink */
     .cursor {
       animation: blink 1s steps(2) infinite;
     }
@@ -16,32 +16,32 @@
       51%, 100% { opacity: 0; }
     }
 
-    /* Text reveal mask */
+    /* Text reveal */
     .mask-rect {
-      animation: typeDelete 7s steps(32) infinite;
+      animation: typeDelete 8s steps(33) infinite;
     }
 
-    /* Cursor movement */
+    /* Cursor movement (tighter) */
     .cursor-move {
-      animation: cursorMove 7s steps(32) infinite;
+      animation: cursorMove 8s steps(33) infinite;
     }
 
     @keyframes typeDelete {
       0%   { width: 0; }
-      40%  { width: 720px; }
-      60%  { width: 720px; }
+      40%  { width: 900px; }   /* safe reveal */
+      60%  { width: 900px; }
       100% { width: 0; }
     }
 
     @keyframes cursorMove {
       0%   { transform: translateX(0); }
-      40%  { transform: translateX(720px); }
-      60%  { transform: translateX(720px); }
+      40%  { transform: translateX(820px); } /* VERY close to text */
+      60%  { transform: translateX(820px); }
       100% { transform: translateX(0); }
     }
   </style>
 
-  <!-- Background -->
+  <!-- Terminal background -->
   <rect x="0" y="0" width="100%" height="100%" rx="14" fill="#0d1117"/>
 
   <!-- Mask -->
