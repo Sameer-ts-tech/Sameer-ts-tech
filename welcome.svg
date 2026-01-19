@@ -1,40 +1,39 @@
-<svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .text {
-      font-family: 'Segoe UI', 'Helvetica', 'Arial', sans-serif;
-      font-size: 48px;
-      font-weight: 600;
-      fill: none;
-      stroke: #58a6ff;
-      stroke-width: 2;
-      stroke-dasharray: 1200;
-      stroke-dashoffset: 1200;
-      animation: draw 3s ease forwards, glow 1.5s ease-in-out infinite alternate;
+    .terminal {
+      font-family: 'Courier New', monospace;
+      font-size: 42px;
+      fill: #3fb950;
     }
 
-    @keyframes draw {
-      to {
-        stroke-dashoffset: 0;
-      }
+    .cursor {
+      animation: blink 1s steps(2) infinite;
     }
 
-    @keyframes glow {
-      from {
-        filter: drop-shadow(0 0 2px #58a6ff);
-      }
-      to {
-        filter: drop-shadow(0 0 8px #58a6ff);
-      }
+    @keyframes blink {
+      0%, 50% { opacity: 1; }
+      51%, 100% { opacity: 0; }
+    }
+
+    .typing {
+      animation: typing 4s steps(30, end) forwards;
+      white-space: nowrap;
+      overflow: hidden;
+    }
+
+    @keyframes typing {
+      from { width: 0; }
+      to { width: 100%; }
     }
   </style>
 
-  <text
-    x="50%"
-    y="60%"
-    text-anchor="middle"
-    dominant-baseline="middle"
-    class="text"
-  >
-    WELCOME TO MOHD SAMEER'S GITHUB
+  <!-- Terminal background -->
+  <rect x="0" y="0" width="100%" height="100%" rx="12" fill="#0d1117"/>
+
+  <!-- Prompt -->
+  <text x="40" y="80" class="terminal">
+    <tspan fill="#3fb950">$</tspan>
+    <tspan dx="10" class="typing">WELCOME TO MOHD SAMEER'S GITHUB</tspan>
+    <tspan class="cursor">█</tspan>
   </text>
 </svg>
