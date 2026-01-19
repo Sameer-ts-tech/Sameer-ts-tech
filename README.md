@@ -44,7 +44,7 @@ I am a Full-Stack Developer with a passion for building polished, efficient appl
 
 <!-- Streak Stats (Optional, looks cool) -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer-ts-tech&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Sameer-ts-tech&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 
