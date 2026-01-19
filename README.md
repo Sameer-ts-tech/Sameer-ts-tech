@@ -74,18 +74,19 @@ I am a Full-Stack Developer with a passion for building polished, efficient appl
 </div>
 
 ---
+### ⚡ Random Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</p>
+
+
 
 ### 📫 Connect with me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mohd-sameer-2074a5231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-sameer-2074a5231" height="30" width="40" /></a>
-<a href="https://x.com/Sameer_1_1_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sameer_1_1_9" height="30" width="40" /></a>
-</p>
-
-### ⚡ Random Joke
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+<a href="https://x.com/Sameer_1_1_9" target="blank"><img align="center" src="https://cdn.simpleicons.org/x" alt="Sameer_1_1_9" height="30" width="40" /></a>
 </p>
 
 <p align="center">
