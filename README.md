@@ -16,105 +16,25 @@ I am a Full-Stack Developer with a passion for building polished, efficient appl
 
 **Programming Languages**
 <br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-components.vercel.app/api?component=logo&fill=white&logo=javascript&svgfill=f6df1c">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c" height="40">
-  </picture>
-</a>
-<a href="https://www.typescriptlang.org/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-components.vercel.app/api?component=logo&fill=white&logo=typescript&svgfill=2d79c7">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7" height="40">
-  </picture>
-</a>
-<a href="https://html.com/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-components.vercel.app/api?component=logo&fill=white&logo=html5&svgfill=f06629">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629" height="40">
-  </picture>
-</a>
-<a href="https://www.w3.org/Style/CSS/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-components.vercel.app/api?component=logo&fill=white&logo=CSS3&svgfill=028dd1">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1" height="40">
-  </picture>
-</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c" height="40"></a>
+<a href="https://www.typescriptlang.org/"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7" height="40"></a>
+<a href="https://html.com/"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629" height="40"></a>
+<a href="https://www.w3.org/Style/CSS/"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1" height="40"></a>
 
-<br>
 **Frameworks & Libraries**
 <br>
-<a href="https://react.dev/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-components.vercel.app/api?component=logo&fill=white&logo=react&animation=spin&svgfill=15d8fe">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe" height="40">
-  </picture>
-</a>
-<a href="https://nextjs.org/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-components.vercel.app/api?component=logo&fill=white&logo=next.js&svgfill=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&svgfill=ffffff">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&svgfill=ffffff" height="40">
-  </picture>
-</a>
-<a href="https://nodejs.org/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-components.vercel.app/api?component=logo&fill=white&logo=node.js&svgfill=659b60">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60" height="40">
-  </picture>
-</a>
-<a href="https://tailwindcss.com/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-components.vercel.app/api?component=logo&fill=white&logo=tailwindcss&svgfill=028dd1">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=028dd1">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=028dd1" height="40">
-  </picture>
-</a>
-<a href="https://www.mongodb.com/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-components.vercel.app/api?component=logo&fill=white&logo=mongoDB&svgfill=6aa84f">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongoDB&svgfill=6aa84f">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongoDB&svgfill=6aa84f" height="40">
-  </picture>
-</a>
+<a href="https://react.dev/"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe" height="40"></a>
+<a href="https://nextjs.org/"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&svgfill=ffffff" height="40"></a>
+<a href="https://nodejs.org/"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60" height="40"></a>
+<a href="https://tailwindcss.com/"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=028dd1" height="40"></a>
+<a href="https://www.mongodb.com/"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongoDB&svgfill=6aa84f" height="40"></a>
 
-<br>
 **Tools & Platforms**
 <br>
-<a href="https://git-scm.com/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-components.vercel.app/api?component=logo&fill=white&logo=git&svgfill=fe0404">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=fe0404">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=fe0404" height="40">
-  </picture>
-</a>
-<a href="https://github.com/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-components.vercel.app/api?component=logo&fill=white&logo=github&svgfill=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github" height="40">
-  </picture>
-</a>
-<a href="https://vercel.com/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-components.vercel.app/api?component=logo&fill=white&logo=vercel&svgfill=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vercel&svgfill=ffffff">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vercel&svgfill=ffffff" height="40">
-  </picture>
-</a>
-<a href="https://www.postman.com/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-components.vercel.app/api?component=logo&fill=white&logo=postman&svgfill=f3922c">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postman&svgfill=f3922c">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postman&svgfill=f3922c" height="40">
-  </picture>
-</a>
+<a href="https://git-scm.com/"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=fe0404" height="40"></a>
+<a href="https://github.com/"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github" height="40"></a>
+<a href="https://vercel.com/"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vercel&svgfill=ffffff" height="40"></a>
+<a href="https://www.postman.com/"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postman&svgfill=f3922c" height="40"></a>
 
 </div>
 
