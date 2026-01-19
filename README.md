@@ -2,7 +2,7 @@
   <img src="./welcome.svg" alt="Terminal Welcome" width="100%" />
 </p>
 
-# Hi 👋, I'm Sameer
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sameer
 
 ### 🚀 Full-Stack Developer
 
@@ -80,4 +80,14 @@ I am a Full-Stack Developer with a passion for building polished, efficient appl
 <p align="center">
 <a href="https://www.linkedin.com/in/mohd-sameer-2074a5231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-sameer-2074a5231" height="30" width="40" /></a>
 <a href="https://x.com/Sameer_1_1_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sameer_1_1_9" height="30" width="40" /></a>
+</p>
+
+### ⚡ Random Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sameer-ts-tech&label=Profile%20views&color=0e75b6&style=flat" alt="Sameer-ts-tech" />
 </p>
