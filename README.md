@@ -6,7 +6,7 @@
 
 ### 🚀 Full-Stack Developer
 
-I am a Full-Stack Developer with a passion for building polished, efficient applications and delivering complete end-to-end solutions. I completed my graduation (2024) with a Bachelor of Technology in Computer Science and Engineering from Galgotias University.
+I am a Full-Stack Developer with a passion for building polished, efficient applications and delivering complete end-to-end solutions. I completed my graduation with a Bachelor of Technology in Computer Science and Engineering from Galgotias University.
 
 ---
 
